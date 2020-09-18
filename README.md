@@ -1,3 +1,5 @@
+### _Herein are_ highly _experimental tweaks to temporarily get Zefyr working for macOS Desktop builds._ #
+
 # About Zefyr
 
 [![Build Status](https://travis-ci.com/memspace/zefyr.svg?branch=master)](https://travis-ci.com/memspace/zefyr) [![codecov](https://codecov.io/gh/memspace/zefyr/branch/master/graph/badge.svg)](https://codecov.io/gh/memspace/zefyr)
