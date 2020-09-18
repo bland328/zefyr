@@ -97,6 +97,12 @@ class InputConnectionController implements TextInputClient {
   // Overridden members
   //
 
+  // BTL test per https://www.gitmemory.com/issue/memspace/zefyr/389/678960604
+  @override
+  void performPrivateCommand(String action, Map<String, dynamic> data){
+    // no-op
+  }
+
   @override
   void performAction(TextInputAction action) {
     // no-op
